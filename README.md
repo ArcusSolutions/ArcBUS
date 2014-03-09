@@ -1,5 +1,7 @@
 # ArcBUS
 
+[<img src="http://i.imgur.com/kpsgS7y.png" alt="" width="100px" />](https://itunes.apple.com/us/app/arcbus/id829910677?mt=8)
+
 [ArcBUS](https://itunes.apple.com/us/app/arcbus/id829910677?mt=8) is an free application serving anyone using buses under the [Massachusetts Bay Transportation Authority](http://mbta.com/) ([MBTA](http://mbta.com/)). Using GPS and route information provided by [nextbus](http://www.nextbus.com/), ArcBUS is able to derive highly reliable information about nearby bus routes and expected arrival times.
 
 [ArcBUS](https://itunes.apple.com/us/app/arcbus/id829910677?mt=8) is an open-source project developed by [Arcus Solutions](http://arcussolutions.com) as a means of giving back to the community we call our home. We hope the source of the application can provide valuable insight into some fundamental software design practices, and we welcome any contributions from the GitHub community.
