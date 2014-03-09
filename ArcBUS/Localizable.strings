@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  ArcBUS
+  
+  Created by Michael Muesch on 2/27/14.
+  Copyright (c) 2014 Arcus Solutions. All rights reserved.
+*/
+
+"Google Analytics Key" = "UA-XXXXXXXX-X";
+"Twitter App Consumer Key" = "";
+"Twitter App Consumer Secret" = "";
