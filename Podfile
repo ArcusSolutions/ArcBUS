@@ -1,0 +1,6 @@
+platform :ios, '7.0'
+pod 'ViewDeck', '~> 2.3.1'
+pod 'SHXMLParser', '~> 1.1.0'
+pod 'MBProgressHUD', '~> 0.8'
+pod 'STTwitter'
+pod 'GoogleAnalytics-iOS-SDK', '~> 3.0'
