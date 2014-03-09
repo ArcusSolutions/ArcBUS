@@ -2,3 +2,4 @@ Pods/*
 Podfile.lock
 ArcBUS.xcworkspace/*
 xcuserdata
+Localizable.strings
